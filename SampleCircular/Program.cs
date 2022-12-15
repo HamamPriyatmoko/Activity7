@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SampleCircular
 {
-    internal class Program
+    class Queues
     {
         static void Main(string[] args)
         {
