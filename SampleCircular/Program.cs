@@ -16,6 +16,10 @@ namespace SampleCircular
             FRONT = -1;
             REAR = -1;
         }
+        public void insert(int element)
+        {
+           
+        }
         static void Main(string[] args)
         {
         }
