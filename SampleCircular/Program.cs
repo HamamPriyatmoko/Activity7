@@ -36,6 +36,10 @@ namespace SampleCircular
             /* Once the position of REAR is determined, the element is added at its proper place. */
             queue_array[REAR] = element;
         }
+        public void remove()
+        {
+            
+        }
         static void Main(string[] args)
         {
         }
